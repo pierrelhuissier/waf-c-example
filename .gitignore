@@ -1,5 +1,5 @@
 data/*
-__build__/*
 .waf*
 .lock*
+__build__/*
 

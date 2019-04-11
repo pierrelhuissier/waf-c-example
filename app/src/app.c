@@ -20,4 +20,8 @@ int main(int argc, char **argv) {
   return 0;
 }
 
+int myfunction_good()
+{
+    return 1;
+}
 /* EOF */
