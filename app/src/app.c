@@ -20,7 +20,7 @@ int main(int argc, char **argv) {
   return 0;
 }
 
-int myfunction_good()
+int myfunction_good_donne()
 {
     return 1;
 }
