@@ -1,1 +1,5 @@
 data/*
+__build__/*
+.waf*
+.lock*
+
