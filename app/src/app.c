@@ -24,4 +24,12 @@ int myfunction_good_donne()
 {
     return 1;
 }
+
+void mythirdfunction()
+{
+}
+
+
+
+
 /* EOF */
