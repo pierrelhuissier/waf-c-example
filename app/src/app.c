@@ -25,6 +25,7 @@ int myfunction_good_donne()
     return 1;
 }
 
+
 void mysecondfunction()
 {
 
@@ -35,5 +36,13 @@ bool f5(int t)
   fprintf(stdout, "%d", t);
   return true;  
 }
+
+void mythirdfunction()
+{
+}
+
+
+
+
 
 /* EOF */
