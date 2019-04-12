@@ -26,9 +26,9 @@ int myfunction_good_donne()
 }
 
 
-void mysecondfunction()
+int mysecondfunction()
 {
-
+    return 1;
 }
 
 bool f5(int t)
